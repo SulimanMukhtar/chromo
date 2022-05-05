@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xea1c3c48556ecd9a504046033bc41b9c6bae83cf",
+  "SCAN_LINK": "https://etherscan.io/token/0xea1c3c48556ecd9a504046033bc41b9c6bae83cf",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "The ChromoBears NFT",
+  "SYMBOL": "CHROMO",
+  "MAX_SUPPLY": 1496,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/chromobears",
+  "SHOW_BACKGROUND": true
+}
